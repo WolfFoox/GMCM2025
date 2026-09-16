@@ -1,0 +1,5 @@
+﻿feature,importance,group
+envelope_mean,0.029706236867657956,time_freq_domain
+spectral_centroid,0.02622671891710023,freq_domain
+psd_peak_freq,0.025070216525428093,freq_domain
+order_1_amplitude,0.018436374700004175,freq_domain

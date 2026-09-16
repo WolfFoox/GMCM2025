@@ -1,0 +1,19 @@
+=== 轴承故障诊断树模型与SHAP分析报告 ===
+
+1. 实验设置
+   数据集: ../02_特征提取/comprehensive_features.csv
+   源域样本数: 348
+   目标域样本数: 0
+   特征数量: 15
+   类别: Ball_Fault, Inner_Race_Fault, Normal, Outer_Race_Fault
+
+2. 模型性能对比
+   1. XGBoost        : 准确率 0.8592±0.0455
+   2. LightGBM       : 准确率 0.8534±0.0509
+   3. RandomForest   : 准确率 0.8102±0.0285
+
+4. 特征分析总结
+   特征组分布:
+   - time_domain: 5个特征
+   - freq_domain: 5个特征
+   - time_freq_domain: 5个特征
