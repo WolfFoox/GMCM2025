@@ -1,0 +1,17 @@
+file_path,fault_type,fault_size,load_level,sensor_type,or_position,sampling_rate,rpm,file_id
+..\目标域数据集\A.mat,Unknown,,,,,32000,,A
+..\目标域数据集\B.mat,Unknown,,,,,32000,,B
+..\目标域数据集\C.mat,Unknown,,,,,32000,,C
+..\目标域数据集\D.mat,Unknown,,,,,32000,,D
+..\目标域数据集\E.mat,Unknown,,,,,32000,,E
+..\目标域数据集\F.mat,Unknown,,,,,32000,,F
+..\目标域数据集\G.mat,Unknown,,,,,32000,,G
+..\目标域数据集\H.mat,Unknown,,,,,32000,,H
+..\目标域数据集\I.mat,Unknown,,,,,32000,,I
+..\目标域数据集\J.mat,Unknown,,,,,32000,,J
+..\目标域数据集\K.mat,Unknown,,,,,32000,,K
+..\目标域数据集\L.mat,Unknown,,,,,32000,,L
+..\目标域数据集\M.mat,Unknown,,,,,32000,,M
+..\目标域数据集\N.mat,Unknown,,,,,32000,,N
+..\目标域数据集\O.mat,Unknown,,,,,32000,,O
+..\目标域数据集\P.mat,Unknown,,,,,32000,,P
